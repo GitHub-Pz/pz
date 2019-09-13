@@ -2,8 +2,11 @@
 title: Home
 sections:
   - component: mission.html
-    content: 'The QUICKEST, CHEAPEST and EASIEST solution for project design'
-    title: Amet ullamcorper
+    content: |-
+      ## The QUICKEST, CHEAPEST and EASIEST solution for project design
+
+      New Installation, System Rebuilds, Line Upgrade, Plant Expansion
+    title: Prepare Zone
     type: mission
   - actions:
       - is_primary: false
