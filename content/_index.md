@@ -8,7 +8,7 @@ sections:
         url: /generic
     component: intro.html
     content: |-
-      ## The QUICKEST, CHEAPEST and EASIEST solution for project design
+      ## EASIEST solution for project design
 
       New Installation, System Rebuilds, Line Upgrade, Plant Expansion
     img_path: images/pic01.jpg
