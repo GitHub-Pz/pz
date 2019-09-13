@@ -1,7 +1,7 @@
 ---
 title: CRM
 excerpt: |-
-  ## Looking for a cloud-based CRM platform?
+  **Looking for a cloud-based CRM platform?**
 
   Try Bitrix24
 
