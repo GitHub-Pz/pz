@@ -8,6 +8,9 @@ excerpt: |-
 img_path: /images/pic04.jpg
 post_button_label: read more
 date: 2019-09-13T04:00:00.000Z
+menu:
+  main:
+    weight: 3
 layout: page
 ---
 
