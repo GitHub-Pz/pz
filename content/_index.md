@@ -1,25 +1,18 @@
 ---
 title: Home
 sections:
-  - component: mission.html
+  - actions:
+      - is_primary: false
+        is_scrolly: false
+        label: start for free
+        url: /generic
+    component: intro.html
     content: |-
       ## The QUICKEST, CHEAPEST and EASIEST solution for project design
 
       New Installation, System Rebuilds, Line Upgrade, Plant Expansion
-    title: Prepare Zone
-    type: mission
-  - actions:
-      - is_primary: false
-        is_scrolly: false
-        label: Get Started
-        url: /generic
-    component: intro.html
-    content: |-
-      Lorem ipsum dolor sit magna consectetur  
-      adipiscing elit. Duis dapibus rutrum facilisis.  
-      Class aptent taciti sociosqu torquent.
     img_path: images/pic01.jpg
-    title: Reflex
+    title: Prepare Zone
     type: intro
   - actions:
       - is_primary: false
