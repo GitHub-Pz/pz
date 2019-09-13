@@ -1,12 +1,14 @@
 ---
 title: Features
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum
-  facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-  per inceptos himenaeos magna fames ac turpis egestas amet non lorem amet.
+excerpt: |-
+  * Design projects within minutes
+  * Export 2D drawings as PDF and share with clients
+  * Use your 2D drawing as a layer for your CAD software
+  * Export 3D models as STL files and use them in BIM
+  * Bill of Material can be exported to Excel within a click
 img_path: /images/pic02.jpg
-post_button_label: Details
-date: '2017-04-03'
+post_button_label: read more
+date: 2019-09-13T04:00:00.000Z
 layout: page
 ---
 
