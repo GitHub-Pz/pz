@@ -5,15 +5,15 @@ social_content: >-
   facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
   per inceptos himenaeos magna fames ac turpis egestas amet non lorem amet.
 social_links:
-  - title: Twitter
-    icon: fa-twitter
-    link_url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    link_url: '#'
-  - title: Snapchat
-    icon: fa-snapchat-ghost
-    link_url: '#'
-  - title: GitHub
-    icon: fa-github
-    link_url: '#'
+  - icon: fa-twitter
+    link_url: 'https://twitter.com/PrepareZone'
+    title: Twitter
+  - icon: fa-instagram
+    link_url: 'https://www.instagram.com/preparezone/'
+    title: Instagram
+  - icon: fa-linkedin
+    link_url: 'https://www.linkedin.com/company/preparezone'
+    title: LinkedIn
+  - icon: fa-youtube
+    link_url: 'https://www.youtube.com/channel/UCPDJyWJdQw0F9Py3NB2Gkqw'
+    title: YouTube
