@@ -1,10 +1,10 @@
 ---
 title: knows how to
 excerpt: |-
-  * manage equipment
-  * create 2D documentation
-  * compose 3D content for factory layouts
-  * prepare Bill of Material
+  * Manage equipment
+  * Create 2D documentation
+  * Compose 3D content for factory layouts
+  * Prepare Bill of Material
 img_path: /images/pic04.jpg
 post_button_label: read more
 date: 2019-09-13T04:00:00.000Z
