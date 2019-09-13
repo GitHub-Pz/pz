@@ -1,12 +1,13 @@
 ---
-title: Tempus litoria
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum
-  facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-  per inceptos himenaeos magna fames ac turpis egestas amet non lorem amet.
-img_path: images/pic04.jpg
-post_button_label: Details
-date: '2017-04-01'
+title: knows how to
+excerpt: |-
+  * manage equipment
+  * create 2D documentation
+  * compose 3D content for factory layouts
+  * prepare Bill of Material
+img_path: /images/pic04.jpg
+post_button_label: read more
+date: 2019-09-13T04:00:00.000Z
 layout: page
 ---
 
