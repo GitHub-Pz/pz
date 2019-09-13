@@ -1,5 +1,5 @@
 ---
-title: Features
+title: features
 excerpt: |-
   * Design projects within minutes
   * Export 2D drawings as PDF and share with clients
