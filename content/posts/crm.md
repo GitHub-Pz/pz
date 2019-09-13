@@ -1,11 +1,9 @@
 ---
 title: CRM
 excerpt: |-
-  Looking for a cloud-based CRM platform?
+  ## Looking for a cloud-based CRM platform?
 
   Try Bitrix24
-
-
 
   Prepare Zone LLC is the Bronze Partner for Bitrix products. We specialize in:
 
