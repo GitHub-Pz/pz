@@ -1,7 +1,7 @@
 ---
 title: 3dCAD
 excerpt: |-
-  ## Want 3D CAD equipment models?
+  **Want 3D CAD equipment models?**
 
   We prepare libraries of neutral STL format files.
 img_path: /images/pic09.jpg
