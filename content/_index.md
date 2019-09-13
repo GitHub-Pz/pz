@@ -8,7 +8,7 @@ sections:
         url: /generic
     component: intro.html
     content: |-
-      ## EASIEST solution for project design
+      ## factory layout design
 
       New Installation, System Rebuilds, Line Upgrade, Plant Expansion
     img_path: images/pic01.jpg
