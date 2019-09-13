@@ -2,6 +2,7 @@
 title: Home
 sections:
   - component: mission.html
+    content: 'The QUICKEST, CHEAPEST and EASIEST solution for project design'
     title: Amet ullamcorper
     type: mission
   - actions:
